@@ -19,7 +19,7 @@ Our mission is to deliver high-quality and innovative solutions tailored to meet
 
 ## Connect with Us
 
-Learn more about our services and projects on our website: [bitspaces.software](https://bitspaces.software)
+Learn more about our services and projects on our website: [bitspace.software](https://bitspace.software)
 
 We are always open to new projects and collaborations. Feel free to reach out to us for any inquiries or opportunities.
 
