@@ -1,6 +1,7 @@
 # Bitspace Software
 
-Welcome to **Bitspace Software**'s GitHub profile! We are a dynamic freelance organization specializing in a variety of services to help businesses succeed in the digital world.
+Bitspace Software crafts web applications, provides technical support, offers marketing services, designs websites, and develops open source packages in the Laravel ecosystem. Our mission is to deliver high-quality and innovative solutions tailored to meet the unique needs of our clients.
+
 
 ## What We Do
 
